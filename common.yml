@@ -1,0 +1,5 @@
+project_id: gitops-prod
+location: us-central1
+
+enabled_services:
+  - bigquery

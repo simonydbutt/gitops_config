@@ -1,0 +1,8 @@
+dataset_id: demo_dataset_1
+friendly_name: demo_dataset
+
+iam:
+  - role: dataEditor
+    group: projectOwners
+  - role: jobOwner
+    user_email: simonbutt123@gmail.com
